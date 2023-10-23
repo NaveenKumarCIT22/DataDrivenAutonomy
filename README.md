@@ -78,7 +78,7 @@ The project intentionally avoids excessive complexities to keep it accessible fo
 ## Contact Information
 
 - [Naveen Kumar M](mailto:mnkincit22@gmail.com)
-- [Arivarasan A](mailto:)
+- [Arivarasan A](mailto:arivarasana.aids2022@citchennai.net)
 
 Feel free to reach out regrading any contribution ideas or willingness.
 
